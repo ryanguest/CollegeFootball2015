@@ -22,7 +22,7 @@ end
 [B,index]=sort(pi','descend');
 #B(1:25)
 
-for i = 1:25
+for i = 1:208
   #disp(index(i))
   disp(teams{index(i)})
 endfor
